@@ -6,3 +6,4 @@
 * Google: Inteligencia Artificial y Productividad
 * Introducción a las Tecnologías Emergentes
 * Computación Básica
+* Introducción a Ciencia de Datos

@@ -5,6 +5,7 @@
 * Google: Gestión de Riesgos de Seguridad
 * Google: Inteligencia Artificial y Productividad
 * Scrum Fundamentals Certified
+* Python
 * Introducción a las Tecnologías Emergentes
 * Computación Básica
 * Introducción a Ciencia de Datos

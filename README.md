@@ -1,6 +1,8 @@
 # Certificaciones
 1. Google: User Experience (UX) Design
-	1.2. Google: Start UX Design Process
+
+1.2. Google: Start UX Design Process
+
 2. Google: Herramientas del oficio: Linux y SQL
 3. Google: Fundamentos de Ciberseguridad
 4. Google: Gestión de Riesgos de Seguridad

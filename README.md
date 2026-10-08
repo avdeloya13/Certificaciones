@@ -1,18 +1,18 @@
 # Certificaciones
 
-1. Google: User Experience (UX) Design
+1. [Google: User Experience (UX) Design](https://github.com/avdeloya13/Certificaciones/blob/main/1.%20Google_UX_Design.pdf)
 
-* 1.2. Google: Start UX Design Process
+* [Google: Start UX Design Process](https://github.com/avdeloya13/Certificaciones/blob/main/1.2.%20Google_Start_UX_Design_Process.pdf)
 
 ---
 
-2. Google: Herramientas del oficio: Linux y SQL
-3. Cisco Networking Academy: Fundamentos de JavaScript
-4. Google: Fundamentos de Ciberseguridad
-5. Google: Gestión de Riesgos de Seguridad
-6. Google: Inteligencia Artificial y Productividad
-7. Scrum Fundamentals Certified
-8. Fundamentos de Python
+2. [Google: Herramientas del oficio: Linux y SQL](https://github.com/avdeloya13/Certificaciones/blob/main/2.%20Google_Herramientas_Linux_SQL.pdf)
+3. [Cisco Networking Academy: Fundamentos de JavaScript](https://github.com/avdeloya13/Certificaciones/blob/main/3.%20Cisco%20Networking%20Academy%3A%20Fundamentos%20de%20JavaScript.pdf)
+4. [Google: Fundamentos de Ciberseguridad](https://github.com/avdeloya13/Certificaciones/blob/main/4.%20Google_Fundamentos_Ciberseguridad.pdf)
+5. [Google: Gestión de Riesgos de Seguridad](https://github.com/avdeloya13/Certificaciones/blob/main/5.%20Google_Gesti%C3%B3n_Riesgos_Seguridad.pdf)
+6. [Google: Inteligencia Artificial y Productividad](https://github.com/avdeloya13/Certificaciones/blob/main/6.%20Google%3A%20Inteligencia%20Artificial.pdf)
+7. [Scrum Fundamentals Certified](https://github.com/avdeloya13/Certificaciones/blob/main/7.%20ScrumFundamentalsCertified.pdf)
+8. [Fundamentos de Python](https://github.com/avdeloya13/Certificaciones/blob/main/8.%20Fundamentos%20de%20Python.pdf)
 
 ---
 

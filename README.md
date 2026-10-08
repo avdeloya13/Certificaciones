@@ -6,19 +6,12 @@
 
 ---
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 2. Google: Herramientas del oficio: Linux y SQL
-
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 3. Cisco Networking Academy: Fundamentos de JavaScript
 4. Google: Fundamentos de Ciberseguridad
 5. Google: Gestión de Riesgos de Seguridad
 6. Google: Inteligencia Artificial y Productividad
 7. Scrum Fundamentals Certified
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 8. Fundamentos de Python
 
 ---

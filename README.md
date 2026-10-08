@@ -11,3 +11,4 @@
 7. Scrum Fundamentals Certified
 8. Fundamentos de Python
 9. DataCamp: Introducción a Git
+10. DataCamp: Git Intermedio

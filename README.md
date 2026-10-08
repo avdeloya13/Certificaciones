@@ -10,4 +10,4 @@
 6. Google: Inteligencia Artificial y Productividad
 7. Scrum Fundamentals Certified
 8. Fundamentos de Python
-9. Introducción a las Tecnologías Emergentes
+9. DataCamp: Introducción a Git

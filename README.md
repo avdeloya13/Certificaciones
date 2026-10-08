@@ -1,8 +1,10 @@
-# Certificaciones
+# Mis Certificaciones
 
-1. [Google: User Experience (UX) Design](https://github.com/avdeloya13/Certificaciones/blob/main/1.%20Google_UX_Design.pdf)
+## Diseño UX/UI
 
-* [Google: Start UX Design Process](https://github.com/avdeloya13/Certificaciones/blob/main/1.2.%20Google_Start_UX_Design_Process.pdf)
+* **Google: User Experience (UX) Design** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/1.%20Google_UX_Design.pdf)
+
+* **Google: Start UX Design Process** - [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/1.2.%20Google_Start_UX_Design_Process.pdf)
 
 ---
 
@@ -16,7 +18,7 @@
 
 ---
 
-## Git y Github
+## Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 

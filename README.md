@@ -2,8 +2,6 @@
 
 Repositorio dedicado a compilar mis certificados de aprendizaje continuo.
 
----
-
 ## Diseño UX
 
 * **Google: User Experience (UX) Design** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/1.%20Google_UX_Design.pdf)

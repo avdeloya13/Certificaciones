@@ -1,6 +1,6 @@
 # Mis Certificaciones
 
-Un espacio dedicado a compilar mis certificados de aprendizaje continuo.
+Repositorio dedicado a compilar mis certificados de aprendizaje continuo.
 
 ---
 
@@ -10,13 +10,9 @@ Un espacio dedicado a compilar mis certificados de aprendizaje continuo.
 
 * **Google: Start UX Design Process** - [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/1.2.%20Google_Start_UX_Design_Process.pdf)
 
----
-
 ## Desarrollo Frontend
 
 * **Cisco Networking Academy: Fundamentos de JavaScript** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/3.%20Cisco%20Networking%20Academy%3A%20Fundamentos%20de%20JavaScript.pdf)
-
----
 
 ## Control de Versiones
 
@@ -27,26 +23,18 @@ Un espacio dedicado a compilar mis certificados de aprendizaje continuo.
 
 ### Github
 
----
-
 ## Bases de Datos y Sistemas Operativos
 
 * **Google: Herramientas del oficio: Linux y SQL** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/2.%20Google_Herramientas_Linux_SQL.pdf)
-
---- 
 
 ## Gestión de Proyectos y Productividad
 
 * **Scrum Fundamentals Certified** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/7.%20ScrumFundamentalsCertified.pdf)
 * **Google: Inteligencia Artificial y Productividad** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/6.%20Google%3A%20Inteligencia%20Artificial.pdf)
 
----
-
 ## Desarrollo Backend
 
 * **Fundamentos de Python** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/8.%20Fundamentos%20de%20Python.pdf)
-
----
 
 ## Ciberseguridad
 

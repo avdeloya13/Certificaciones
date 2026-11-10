@@ -21,7 +21,7 @@ Repositorio dedicado a compilar mis certificados de aprendizaje continuo.
 
 ### Github
 
-* **DataCamp: Introducción a los conceptos de GitHub** — [Ver PDF]()
+* **DataCamp: Introducción a los conceptos de GitHub** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/Control%20de%20Versiones/3.%20DataCamp%3A%20Introducci%C3%B3n%20a%20conceptos%20de%20GitHub.pdf)
 
 ## Bases de Datos y Sistemas Operativos
 

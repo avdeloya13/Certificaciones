@@ -27,6 +27,8 @@ Repositorio dedicado a compilar mis certificados de aprendizaje continuo.
 
 * **Google: Herramientas del oficio: Linux y SQL** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/2.%20Google_Herramientas_Linux_SQL.pdf)
 
+* **DataCamp: Introducción a SQL** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/Bases%20de%20Datos/1.%20Introducci%C3%B3n%20a%20SQL.pdf)
+
 ## Gestión de Proyectos y Productividad
 
 * **Scrum Fundamentals Certified** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/7.%20ScrumFundamentalsCertified.pdf)

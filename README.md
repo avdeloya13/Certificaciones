@@ -21,7 +21,7 @@ Repositorio dedicado a compilar mis certificados de aprendizaje continuo.
 
 ### Github
 
-* **DataCamp: Fundamentos de GitHub** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/Control%20de%20Versiones/5.%20DataCamp%3A%20Fundamentos%20de%20Github.pdf) - [Ver Curso](https://www.datacamp.com/completed/statement-of-accomplishment/track/997fd4151402968dc0005190ffb023b12143b3a5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
+* **DataCamp: Fundamentos de GitHub** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/Control%20de%20Versiones/5.%20DataCamp%3A%20Fundamentos%20de%20Github.pdf) — [Ver Curso](https://www.datacamp.com/completed/statement-of-accomplishment/track/997fd4151402968dc0005190ffb023b12143b3a5?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa)
 * **DataCamp: Introducción a los Conceptos de GitHub** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/Control%20de%20Versiones/3.%20DataCamp%3A%20Introducci%C3%B3n%20a%20conceptos%20de%20GitHub.pdf)
 * **DataCamp: Conceptos Intermedios de GitHub** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/Control%20de%20Versiones/4.%20DataCamp%3A%20Conceptos%20Intermedios%20de%20GitHub.pdf)
 

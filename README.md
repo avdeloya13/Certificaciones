@@ -32,7 +32,7 @@ Repositorio dedicado a compilar mis certificados de aprendizaje continuo.
 
 ## Contenerización y Virtualización
 
-* **DataCamp: Conceptos de Contenedores y Virtualización** — [Ver PDF]()
+* **DataCamp: Conceptos de Contenedores y Virtualización** — [Ver PDF](https://github.com/avdeloya13/Certificaciones/blob/main/Contenedores/1.%20Conceptos%20de%20Contenedores%20y%20Virtualizaci%C3%B3n.pdf)
 
 ## Gestión de Proyectos y Productividad
 
